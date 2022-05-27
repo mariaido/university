@@ -1,0 +1,85 @@
+
+body{text-align: center; margin-left:auto;  margin-right:auto;width: 60%; height: 60%; font: 20px Times New Roman;color:black}
+
+/*#l1{border: 3px groove #ff4d11; border-radius: 3px; background-color:#ff7f16}
+#homeimg{display: block; margin: auto; width: 100%;}*/
+
+#username{
+	color:#4a05b2;
+	}
+.bold{
+	background-color:#ff7f16; 
+	/*border-style: solid;
+	border-color:#ff4d11;
+	border-radius:4px;*/
+	font: 25px bold;
+	}
+
+	
+#center{
+	background-color:#ff7f16; 
+	border-style: solid;
+	border-color:#ff4d11;
+	border-radius:4px;
+	margin-top:15%;
+	margin-bottom:auto;
+	}
+#home{
+	background-color:#ff7f16; 
+	border-style: solid;
+	border-color:#ff4d11;
+	border-radius:4px;
+	margin-top:auto;
+	margin-bottom:auto;
+	font-size:25px;
+	font-style: italic;
+	}
+
+#index{
+	background-color:#ff7f16; 
+	border-style: solid;
+	border-color:#ff4d11;
+	border-radius:4px;
+	margin-top:auto;
+	margin-bottom:auto;
+	}
+	
+.optionstyle{
+	font: 17px bold;
+	background-color:#f9fafc; 
+	border-style: groove;
+	border-color:#ff4d11;
+	border-radius:11px;
+	}
+
+h1{
+	background-color:#ff7f16;
+	border-style: solid;
+	border-color:#ff4d11;
+	border-radius:4px;
+	font-size:30px;
+	}
+
+
+html {
+    background: url(images/img1.jpg) no-repeat center fixed;
+    background-size: cover;
+	}
+
+table {
+	background-color:#ff7f16;
+    border-collapse: collapse;
+    width: 60%;
+	text-align:center;
+    margin-left:auto; 
+    margin-right:auto;
+	outline-style:outset;
+	outline-color: #ff4d11;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #ff953f}
