@@ -1,0 +1,9 @@
+    ARRAY SIZE = 30000
+
+				TABLE OF SWAPS
+
+	Bubble_sort	Selection_sort	Insertion_sort	Quick_sort
+	=============== ================ =============== ==========
+	224041415		29999		224045403		120833	
+	225214119		29999		225236003		119563	
+	

@@ -1,0 +1,13 @@
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\bin\Debug\APOTHIKI3748.sdf
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\bin\Debug\ProjectETHBD.exe.config
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\bin\Debug\ProjectETHBD.exe
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\bin\Debug\ProjectETHBD.pdb
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\ProjectETHBD.Form1.resources
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\ProjectETHBD.Properties.Resources.resources
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\ProjectETHBD.exe
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\ProjectETHBD.pdb
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\RdlCompile.cache
+C:\Users\IEUser\Documents\Visual Studio 2010\Projects\WindowsFormsApplication3\ProjectETHBD\ProjectETHBD\obj\x86\Debug\RdlCompile.compiled

@@ -1,0 +1,9 @@
+    ARRAY SIZE = 30000
+
+			TABLE OF EXECUTION TIMES(in seconds)
+
+	Bubble_sort	Selection_sort	Insertion_sort	Quick_sort
+	=============== ================ =============== ==========
+	3		1		0		0	
+	2		2		0		0	
+	
